@@ -29,3 +29,6 @@ firebase-debug.log
 .env
 .eslintcache
 packages/core/README.md
+
+.DS_Store
+package-lock.json
