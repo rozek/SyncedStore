@@ -8,6 +8,8 @@
 
 SyncedStore is an easy-to-use library for building collaborative applications that sync automatically. It's built on top of [Yjs](https://github.com/yjs/yjs), a proven, high performance CRDT implementation.
 
+> **Nota bene**: this fork has been created in order to keep the original project (which seems to be inactive) up-to-date with Yjs. However, this basically covers the `core` sub-package only, not any of the others.
+
 ## TL;DR
 
 Create apps like this:
